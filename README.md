@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m [Deepak Pancholi]  
 
-<!--
-**Deepak9521/Deepak9521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About Me**  
+- 🔭 I’m currently working on: [Project/Topic, e.g., "Making My Codding Skill Best For My BestFuture"]  
+- 🌱 Learning: [Skill, e.g., "Python"]  
+- 👯 Looking to collaborate on: [Interest, e.g., "Personal project"]  
+- 💬 Ask me about: [Expertise, e.g., "Web Dev or Data Science"]  
+- 📫 How to reach me: [Email/Social Media, e.g., "deepakpancholi9521@gmail.com"]  
+- 😄 Pronouns: [e.g., "He/Him"]  
+- ⚡ Fun fact: [e.g., "I can fight in my mind and win it in my mind also. 😅"]  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠 Skills**  
+```python
+Languages: Python, JavaScript, SQL  
+Tools: Git, Docker, VS Code  
+Frameworks: React, Django  
